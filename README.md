@@ -20,6 +20,7 @@ The app will be a Todo list (sorry) with the following features:
 - React
 - React Hooks
 - Avoid class components if possible
+- Typescript is hihgly recommended
 
 ### Bonus/Suggestions
 - Responsive design
