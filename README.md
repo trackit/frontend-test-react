@@ -24,6 +24,7 @@ The app will be a Todo list (sorry) with the following features:
 ### Bonus/Suggestions
 - Responsive design
 - CSS modules or alternative (SASS, SCSS)
+- Drag & Drop 🙃
 - ... Impress us!
 
 
