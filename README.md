@@ -19,6 +19,7 @@ The app will be a Todo list (sorry) with the following features:
 - Features listed above
 - React
 - React Hooks
+- Avoid class components if possible
 
 ### Bonus/Suggestions
 - Responsive design
